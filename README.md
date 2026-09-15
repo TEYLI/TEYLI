@@ -11,7 +11,7 @@ I am passionate about building robust software architectures, exploring system a
 - 🌱 **Currently exploring:** Advanced network socket programming in Linux, database administration with Oracle PL/SQL, and test-driven development using JUnit.
 - 💬 **Ask me about:** Object-Oriented Architecture, web application development (PHP/JS), and Bash scripting.
 - 📫 **How to reach me:** [angeholvec@gmail.com] | [[LinkedIn](https://www.linkedin.com/in/ange-holvec-195846406/)]
-- ⚡ **Fun fact:** When I'm away from the keyboard, you'll likely find me hitting the trails to train for treks like the GR20, or queuing up for matches in *R6* and *CS2*!
+- ⚡ **Fun fact:** When I'm away from the keyboard, you'll likely find me hitting the trails to train for treks like the [[GR20](https://en.wikipedia.org/wiki/GR_20)], or queuing up for matches in *R6* and *CS2*!
 
 ---
 
